@@ -1,0 +1,11 @@
+banany_9
+bułki_4
+chleb_1
+czekolada_1
+jajka_4
+keczup_7
+makaron_2
+masło_1
+mleko_2
+musztarda_1
+ser_10
